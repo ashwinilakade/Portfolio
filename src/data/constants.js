@@ -314,7 +314,8 @@ export const projects = [
     description:
       // "Developed a full-stack web application that allows users to search for, play, and pause their favorite podcasts on demand and create podcasts. Implemented user authentication using Google Auth and Jwt Auth, made responsive user interface with React JS that provides users with a seamless experience across all devices. Practiced agile methodologies to optimize team efficiency and communication."
       'It a fully functional project written in the React Native programming language.. Create a UI using HTML and CSS to interact with the inventory. Design forms and elements for login,logout ,updating and deleting items.',
-    image: '',
+    image:
+      'https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg',
     tags: ['HTML', 'CSS', 'Javascript', 'Node Js', 'Express Js', 'MongoDB'],
     category: 'Front end app',
 
@@ -328,7 +329,7 @@ export const projects = [
     description:
       'A car rental mobile app simplifies renting a car, enabling users to search for available vehicles, select pick-up locations and times, choose a car type, and manage their booking. The app helps rental companies to manage their fleet, track reservations, and handle customer requests. .',
     image:
-      'https://play.google.com/store/apps/details?id=com.desco.fieldedgephone&hl=en&gl=US',
+      'https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg',
     tags: ['HTMl 5', 'CSS', 'BOOTSTRAP'],
     category: 'frontend app',
     github: '',
@@ -341,7 +342,7 @@ export const projects = [
     description:
       'React Movie APP is a movie web application project that involves creating components to display a list of movies and details about each movie',
     image:
-      'https://github.com/sanketuparate/Movie-cart-/assets/81017631/62b7c201-7dec-4acb-9e3e-f6761bb56fab',
+      'https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg',
     tags: ['HTMl 5', 'CSS', 'javascript', 'React Js'],
     category: 'frontend app',
     github: 'https://github.com/ashwinilakade/Assignment-Login_Form',
@@ -354,7 +355,8 @@ export const projects = [
     date: 'Sept 2023',
     description:
       'Designed simple music player with HTML and CSS, as part of my MERN Stack course in Coding Ninjas.The project has two pages, one for home and another for a single playlist, which can be accessed by clicking on any image or link',
-    image: '',
+    image:
+      'https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg',
     tags: ['HTMl 5', 'CSS'],
     category: 'frontend app',
     github: '',
